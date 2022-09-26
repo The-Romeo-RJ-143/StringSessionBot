@@ -1,4 +1,4 @@
-###StringSessionBot
+### StringSessionBot
 
 
 ### Deploy to Heroku
@@ -77,11 +77,6 @@
 
 - Generate Telethon string session 
 
-## Support
-
-Channel :- [@StarkBots](https://t.me/StarkBots)
-
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
 
 ## Support
 
