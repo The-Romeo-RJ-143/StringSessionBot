@@ -13,9 +13,9 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("💫 Bot Status and More Bots 💫", url="https://t.me/RomeoBot_OP")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
+            InlineKeyboardButton("🔹How to Use ❔🔹", callback_data="help"),
             InlineKeyboardButton("🔹 About 🔹", callback_data="about")
         ],
     ]
